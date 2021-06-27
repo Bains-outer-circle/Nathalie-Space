@@ -1388,6 +1388,10 @@ PrefabInstance:
       value: Das Raumschiff sieht ganz gut aus! Vielleicht ist das mein Ticket weg
         von hier!
       objectReference: {fileID: 0}
+    - target: {fileID: 2072362197226255562, guid: 6d942788c7510f141b6f4be299eac93c, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2930074334282124296, guid: 6d942788c7510f141b6f4be299eac93c, type: 3}
       propertyPath: m_Name
       value: Leere Flasche
@@ -1415,6 +1419,26 @@ PrefabInstance:
     - target: {fileID: 5058680486995432117, guid: 6d942788c7510f141b6f4be299eac93c, type: 3}
       propertyPath: tooltip
       value: Wo es hier wohl hingeht?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5135189727798981124, guid: 6d942788c7510f141b6f4be299eac93c, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6094010792304313391, guid: 6d942788c7510f141b6f4be299eac93c, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 160
+      objectReference: {fileID: 0}
+    - target: {fileID: 6094010792304313391, guid: 6d942788c7510f141b6f4be299eac93c, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 6094010792304313391, guid: 6d942788c7510f141b6f4be299eac93c, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6094010792304313391, guid: 6d942788c7510f141b6f4be299eac93c, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6548884481050387669, guid: 6d942788c7510f141b6f4be299eac93c, type: 3}
       propertyPath: tooltip
