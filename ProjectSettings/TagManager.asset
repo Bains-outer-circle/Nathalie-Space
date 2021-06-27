@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - Item
+  - Door
+  - Visual Only
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Item
+  - Door
+  - Visual
+  - Inventory
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2170515349
+    locked: 0
+  - name: Item
+    uniqueID: 3216702409
+    locked: 0
+  - name: Player
+    uniqueID: 3903552631
+    locked: 0
+  - name: WorldItemText
+    uniqueID: 472811419
+    locked: 0
+  - name: Inventory
+    uniqueID: 3775692481
+    locked: 0
+  - name: InventoryItem
+    uniqueID: 2869804649
+    locked: 0
+  - name: SelectedInventoryItem
+    uniqueID: 2947537147
+    locked: 0
+  - name: GUI
+    uniqueID: 1144732937
+    locked: 0
+  - name: Cursor
+    uniqueID: 3656089443
+    locked: 0

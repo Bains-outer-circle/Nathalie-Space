@@ -1,0 +1,4 @@
+Apple,Bread,Beer,Dieses Bier habe ich selber gemacht
+Beer,Apple,Bread,Disese Brot habe ich selbst aus einem Bier und einem Apfel zusammengemixt
+Kaputte Axt,Stuhlbein,Axt,Das Stuhlbein tut sich gut. Ich hätte nicht gedacht das es so gut passt.
+Leere Batterie,Ast,Ast mit Batterie,Jetzt kann ich die Batterie eine extra Armlänge von mir entfernt halten.
